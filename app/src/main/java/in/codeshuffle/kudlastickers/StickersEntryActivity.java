@@ -23,7 +23,7 @@ import com.facebook.drawee.backends.pipeline.Fresco;
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 
-public class EntryActivity extends BaseActivity {
+public class StickersEntryActivity extends BaseActivity {
     private View progressBar;
     private LoadListAsyncTask loadListAsyncTask;
 
@@ -61,7 +61,7 @@ public class EntryActivity extends BaseActivity {
 
     private void showErrorMessage(String errorMessage) {
         progressBar.setVisibility(View.GONE);
-        Log.e("EntryActivity", "error fetching sticker packs, " + errorMessage);
+        Log.e("StickersEntryActivity", "error fetching sticker packs, " + errorMessage);
         final TextView errorMessageTV = findViewById(R.id.error_message);
         errorMessageTV.setText(getString(R.string.error_message, errorMessage));
     }
@@ -75,9 +75,9 @@ public class EntryActivity extends BaseActivity {
     }
 
     static class LoadListAsyncTask extends AsyncTask<Void, Void, Pair<String, ArrayList<StickerPack>>> {
-        private final WeakReference<EntryActivity> contextWeakReference;
+        private final WeakReference<StickersEntryActivity> contextWeakReference;
 
-        LoadListAsyncTask(EntryActivity activity) {
+        LoadListAsyncTask(StickersEntryActivity activity) {
             this.contextWeakReference = new WeakReference<>(activity);
         }
 
@@ -99,7 +99,7 @@ public class EntryActivity extends BaseActivity {
                     return new Pair<>("could not fetch sticker packs", null);
                 }
             } catch (Exception e) {
-                Log.e("EntryActivity", "error fetching sticker packs", e);
+                Log.e("StickersEntryActivity", "error fetching sticker packs", e);
                 return new Pair<>(e.getMessage(), null);
             }
         }
@@ -107,7 +107,7 @@ public class EntryActivity extends BaseActivity {
         @Override
         protected void onPostExecute(Pair<String, ArrayList<StickerPack>> stringListPair) {
 
-            final EntryActivity entryActivity = contextWeakReference.get();
+            final StickersEntryActivity entryActivity = contextWeakReference.get();
             if (entryActivity != null) {
                 if (stringListPair.first != null) {
                     entryActivity.showErrorMessage(stringListPair.first);
