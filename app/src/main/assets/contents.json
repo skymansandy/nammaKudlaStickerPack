@@ -2,7 +2,6 @@
   "android_play_store_link": "",
   "ios_app_store_link": "",
   "sticker_packs": [
-//    Kudla Pack
     {
       "identifier": "1",
       "name": "Namma Mangaluru",
@@ -128,7 +127,6 @@
       ]
     },
 
-//    CEC Pack
     {
       "identifier": "2",
       "name": "Canara Engineering College",
