@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -7,14 +12,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff21622-c862-4576-a57c-7fc6b14c4238" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/1_arvind.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/2_kudroli.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/3_bajil.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NammaKudla Sticker Pack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NammaKudla Sticker Pack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/01_kudroli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/02_fish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/03_venkataramana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/04_teru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/05_city_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/06_maroli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/07_neer_dose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/08_ideals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/09_tiramisu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/10_taj_mahal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/11_arvindbolar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/12_bajil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/13_kmc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/14_buns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/15_goli_baje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/16_tannirbavi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/17_okkul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/18_onyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/19_pundi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/20_fish_market.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/21_eerdanemulu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/22_church.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/23_masjid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/24_pili.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/25_pumpwell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/26_sharade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/27_yaksha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/28_kola.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/mangalore_pack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/01_Cuppy_smile.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/02_Cuppy_lol.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/03_Cuppy_rofl.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/04_Cuppy_sad.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/05_Cuppy_cry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/06_Cuppy_love.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/07_Cuppy_hate.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/08_Cuppy_lovewithmug.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/09_Cuppy_lovewithcookie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/10_Cuppy_hmm.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/11_Cuppy_upset.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/12_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/13_Cuppy_curious.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/14_Cuppy_weird.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/15_Cuppy_bluescreen.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/16_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/17_Cuppy_tired.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/18_Cuppy_workhard.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/19_Cuppy_shine.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/20_Cuppy_disgusting.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/21_Cuppy_hi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/22_Cuppy_bye.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/23_Cuppy_greentea.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/24_Cuppy_phone.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/25_Cuppy_battery.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/tray_Cuppy.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,34 +117,69 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="contents.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EntryActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="594">
+              <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <file leaf-file-name="StickerPackDetailsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="468">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
               <folding>
-                <element signature="e#336#354#0" expanded="true" />
-                <element signature="e#957#1000#0" expanded="true" />
-                <element signature="e#1561#1603#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
+        </entry>
+      </file>
+      <file leaf-file-name="WhitelistCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contents.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4_venkatraman.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/4_venkatraman.png">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contentProviderAuthority</find>
+      <find>.class</find>
+      <find>add</find>
+      <find>.sticker_whitelist_check</find>
+      <find>add_to_whatsapp_button</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2363,6 +2479,19 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/assets/contents.json" />
       </list>
     </option>
@@ -2378,60 +2507,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="codeshuffle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="codeshuffle" type="462c0819:PsiDirectoryNode" />
-              <item name="kudlastickers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2494,6 +2569,60 @@
               <item name="in" type="462c0819:PsiDirectoryNode" />
               <item name="codeshuffle" type="462c0819:PsiDirectoryNode" />
               <item name="kudlastickers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="codeshuffle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="in" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="codeshuffle" type="462c0819:PsiDirectoryNode" />
+              <item name="kudlastickers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="1" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NammaKudla Sticker Pack" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -2633,11 +2762,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="56" y="-11" width="1311" height="780" extended-state="6" />
     <layout>
+      <window_info anchor="bottom" id="Android Profiler" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -2646,31 +2774,62 @@
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32917318" />
-      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Logcat" order="11" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.253365" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.253365" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.32917318" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32917318" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" order="4" weight="0.4" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.32858273" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32917318" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1116">
@@ -2683,49 +2842,240 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/01_kudroli.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/01_kudroli.webp" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/01_kudroli.webp">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/Sticker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/ContentFileParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BottomFadingRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="211">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="342">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_entry.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        <state relative-caret-position="144">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="e#336#354#0" expanded="true" />
-            <element signature="e#957#1000#0" expanded="true" />
-            <element signature="e#1561#1603#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/01_kudroli.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/EntryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_green.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sticker_pack_details.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="131" column="40" lean-forward="true" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="84" column="97" selection-start-line="84" selection-start-column="97" selection-end-line="84" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1530#1564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/1_arvind.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/2_kudroli.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/3_bajil.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/1/4_venkatraman.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>

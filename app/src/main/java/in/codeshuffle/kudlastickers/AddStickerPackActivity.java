@@ -21,8 +21,6 @@ import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.codeshuffle.kudlastickers.BuildConfig;
-import com.codeshuffle.kudlastickers.R;
 
 public abstract class AddStickerPackActivity extends BaseActivity {
     public static final int ADD_PACK = 200;
@@ -36,7 +34,13 @@ public abstract class AddStickerPackActivity extends BaseActivity {
         try {
             startActivityForResult(intent, ADD_PACK);
         } catch (ActivityNotFoundException e) {
-            Toast.makeText(this, R.string.error_adding_sticker_pack, Toast.LENGTH_LONG).show();
+            //WhatsApp not found, try GB whatsapp
+            try{
+                intent.setAction("com.gbwhatsapp.intent.action.ENABLE_STICKER_PACK");
+                startActivityForResult(intent, ADD_PACK);
+            }catch (ActivityNotFoundException e1){
+                Toast.makeText(this, R.string.error_adding_sticker_pack, Toast.LENGTH_LONG).show();
+            }
         }
     }
 

@@ -14,7 +14,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.codeshuffle.kudlastickers.R;
 
 public class StickerPackListItemViewHolder extends RecyclerView.ViewHolder {
 

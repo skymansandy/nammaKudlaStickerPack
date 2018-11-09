@@ -11,7 +11,6 @@ package in.codeshuffle.kudlastickers;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.codeshuffle.kudlastickers.R;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 public class StickerPreviewViewHolder extends RecyclerView.ViewHolder {

@@ -14,7 +14,6 @@ import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.codeshuffle.kudlastickers.R;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;

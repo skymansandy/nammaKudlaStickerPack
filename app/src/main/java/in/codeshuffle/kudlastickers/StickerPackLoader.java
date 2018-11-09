@@ -14,7 +14,6 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 
-import com.codeshuffle.kudlastickers.BuildConfig;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

@@ -23,7 +23,6 @@ import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.codeshuffle.kudlastickers.BuildConfig;
 
 import java.io.IOException;
 import java.io.InputStream;

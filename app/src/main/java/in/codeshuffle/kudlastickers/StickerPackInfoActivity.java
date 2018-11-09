@@ -21,7 +21,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.codeshuffle.kudlastickers.R;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

@@ -6,248 +6,207 @@
       "identifier": "1",
       "name": "Namma Mangaluru",
       "publisher": "SkyManSandy",
-      "tray_image_file": "mangalore_pack.png",
-      "publisher_email":"",
+      "tray_image_file": "mangalore_pack.jpg",
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "1_arvind.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "2_kudroli.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "3_bajil.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "4_venkatraman.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "5_theru.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "6_tajmahal.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "7_city_center.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "8_fish.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "9_maroli.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "10_neerdose.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "11_ideal.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "12_tiramisu.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "13_kmc.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "14_buns.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "15_golibaje.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "16_tannerbavi.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "17_okkul.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "18_onyx.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "19_pundi.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "20_fish_market.webp",
+          "emojis": [
+            "🤮",
+            "👎"
+          ]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "21_erdanemulu.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "22_church.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "23_masjid.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "24_pili.webp",
+          "emojis": [
+            "📱",
+            "😦"
+          ]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "25_pumpwell.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
         },
         {
-          "image_file": "26_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "26_sharade.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
         },
         {
-          "image_file": "27_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "27_yaksha.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
         },
         {
-          "image_file": "28_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
-        }
-      ]
-    },
-
-    {
-      "identifier": "2",
-      "name": "Canara Engineering College",
-      "publisher": "SkyManSandy",
-      "tray_image_file": "tray_Cuppy.png",
-      "publisher_email":"",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
-      "stickers": [
-        {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
-        },
-        {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
-        },
-        {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
-        },
-        {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
-        },
-        {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
-        },
-        {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
-        },
-        {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
-        },
-        {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
-        },
-        {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
-        },
-        {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
-        },
-        {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
-        },
-        {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
-        },
-        {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
-        },
-        {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
-        },
-        {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
-        },
-        {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
-        },
-        {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
-        },
-        {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
-        },
-        {
-          "image_file": "26_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
-        },
-        {
-          "image_file": "27_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
-        },
-        {
-          "image_file": "28_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "28_kola.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
         }
       ]
     }

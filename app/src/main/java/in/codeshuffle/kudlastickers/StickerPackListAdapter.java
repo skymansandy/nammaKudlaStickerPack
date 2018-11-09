@@ -22,7 +22,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.codeshuffle.kudlastickers.R;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import java.util.List;
