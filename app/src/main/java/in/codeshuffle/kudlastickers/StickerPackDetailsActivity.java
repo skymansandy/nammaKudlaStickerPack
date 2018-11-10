@@ -8,11 +8,13 @@
 
 package in.codeshuffle.kudlastickers;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.format.Formatter;
@@ -25,6 +27,8 @@ import android.widget.TextView;
 
 
 import java.lang.ref.WeakReference;
+
+import in.codeshuffle.kudlastickers.util.Utils;
 
 public class StickerPackDetailsActivity extends AddStickerPackActivity {
 
@@ -46,10 +50,36 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
     private GridLayoutManager layoutManager;
     private StickerPreviewAdapter stickerPreviewAdapter;
     private int numColumns;
+    private final ViewTreeObserver.OnGlobalLayoutListener pageLayoutListener = new ViewTreeObserver.OnGlobalLayoutListener() {
+        @Override
+        public void onGlobalLayout() {
+            setNumColumns(recyclerView.getWidth() / recyclerView.getContext().getResources().getDimensionPixelSize(R.dimen.sticker_pack_details_image_size));
+        }
+    };
     private View addButton;
     private View alreadyAddedText;
     private StickerPack stickerPack;
     private View divider;
+    private final RecyclerView.OnScrollListener dividerScrollListener = new RecyclerView.OnScrollListener() {
+        @Override
+        public void onScrollStateChanged(@NonNull final RecyclerView recyclerView, final int newState) {
+            super.onScrollStateChanged(recyclerView, newState);
+            updateDivider(recyclerView);
+        }
+
+        @Override
+        public void onScrolled(@NonNull final RecyclerView recyclerView, final int dx, final int dy) {
+            super.onScrolled(recyclerView, dx, dy);
+            updateDivider(recyclerView);
+        }
+
+        private void updateDivider(RecyclerView recyclerView) {
+            boolean showDivider = recyclerView.computeVerticalScrollOffset() > 0;
+            if (divider != null) {
+                divider.setVisibility(showDivider ? View.VISIBLE : View.INVISIBLE);
+            }
+        }
+    };
     private WhiteListCheckAsyncTask whiteListCheckAsyncTask;
 
     @Override
@@ -99,31 +129,53 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.toolbar, menu);
+        getMenuInflater().inflate(R.menu.menu_sticker_detail, menu);
         return super.onCreateOptionsMenu(menu);
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == R.id.action_info && stickerPack != null) {
-            final String publisherWebsite = stickerPack.publisherWebsite;
-            final String publisherEmail = stickerPack.publisherEmail;
-            final String privacyPolicyWebsite = stickerPack.privacyPolicyWebsite;
-            Uri trayIconUri = StickerPackLoader.getStickerAssetUri(stickerPack.identifier, stickerPack.trayImageFile);
-            launchInfoActivity(publisherWebsite, publisherEmail, privacyPolicyWebsite, trayIconUri.toString());
-            return true;
+        switch (item.getItemId()) {
+            case R.id.action_info:
+                final String publisherWebsite = stickerPack.publisherWebsite;
+                final String publisherEmail = stickerPack.publisherEmail;
+                final String privacyPolicyWebsite = stickerPack.privacyPolicyWebsite;
+                Uri trayIconUri = StickerPackLoader.getStickerAssetUri(stickerPack.identifier, stickerPack.trayImageFile);
+                launchInfoActivity(publisherWebsite, publisherEmail, privacyPolicyWebsite, trayIconUri.toString());
+                return true;
+
+            case R.id.contribute:
+                Intent contributeIntent = new Intent(this, WebViewActivity.class);
+                contributeIntent.putExtra(WebViewActivity.URL, Utils.URL.CONTRIBUTE_URL);
+                startActivity(contributeIntent);
+                break;
+
+            case R.id.feedback:
+                Intent feedbackIntent = new Intent(this, WebViewActivity.class);
+                feedbackIntent.putExtra(WebViewActivity.URL, Utils.URL.FEEDBACK_URL);
+                startActivity(feedbackIntent);
+                break;
+
+            case R.id.aboutDev:
+                showAboutDev();
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
 
-
-
-    private final ViewTreeObserver.OnGlobalLayoutListener pageLayoutListener = new ViewTreeObserver.OnGlobalLayoutListener() {
-        @Override
-        public void onGlobalLayout() {
-            setNumColumns(recyclerView.getWidth() / recyclerView.getContext().getResources().getDimensionPixelSize(R.dimen.sticker_pack_details_image_size));
-        }
-    };
+    private void showAboutDev() {
+        new AlertDialog.Builder(this).setIcon(R.mipmap.ic_launcher)
+                .setTitle("About developer")
+                .setMessage("")
+                .setPositiveButton("Open Source License", (dialog, which) -> {
+                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(Utils.URL.LICENSE_URL));
+                    startActivity(browserIntent);
+                })
+                .setNegativeButton("Ok", (dialog, which) -> {
+                    dialog.dismiss();
+                })
+                .create().show();
+    }
 
     private void setNumColumns(int numColumns) {
         if (this.numColumns != numColumns) {
@@ -134,27 +186,6 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
             }
         }
     }
-
-    private final RecyclerView.OnScrollListener dividerScrollListener = new RecyclerView.OnScrollListener() {
-        @Override
-        public void onScrollStateChanged(@NonNull final RecyclerView recyclerView, final int newState) {
-            super.onScrollStateChanged(recyclerView, newState);
-            updateDivider(recyclerView);
-        }
-
-        @Override
-        public void onScrolled(@NonNull final RecyclerView recyclerView, final int dx, final int dy) {
-            super.onScrolled(recyclerView, dx, dy);
-            updateDivider(recyclerView);
-        }
-
-        private void updateDivider(RecyclerView recyclerView) {
-            boolean showDivider = recyclerView.computeVerticalScrollOffset() > 0;
-            if (divider != null) {
-                divider.setVisibility(showDivider ? View.VISIBLE : View.INVISIBLE);
-            }
-        }
-    };
 
     @Override
     protected void onResume() {

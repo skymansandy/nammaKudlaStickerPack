@@ -7,8 +7,10 @@ import android.net.NetworkInfo;
 public class Utils {
 
     public static class URL{
-        public static final String CONTRIBUTE_URL ="";
-        public static final String FEEDBACK_URL ="";
+        public static final String CONTRIBUTE_URL ="https://goo.gl/forms/vCAETXdjoitSFZmm1";
+        public static final String FEEDBACK_URL ="https://goo.gl/forms/j7s044gUkp9H1f8k1";
+        public static final String LICENSE_URL ="https://github.com/skymansandy/nammaKudlaStickerPack/blob/master/LICENSE";
+        public static final String ABOUT_DEV_URL ="http://skymansandy.github.io";
     }
 
     private boolean isNetworkAvailable(Context context) {

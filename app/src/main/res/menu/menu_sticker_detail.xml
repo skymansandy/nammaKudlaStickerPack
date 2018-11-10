@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_info"
+        android:icon="@drawable/sticker_3rdparty_info"
+        android:title="@string/more_info_button"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/contribute"
+        android:icon="@drawable/ic_contribute_stickers"
+        android:title="@string/contribute_text"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/feedback_text"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/aboutDev"
+        android:icon="@drawable/ic_about_dev"
+        android:title="@string/about_text"
+        app:showAsAction="never" />
+</menu>
