@@ -123,12 +123,14 @@ public class StickerPackListActivity extends AddStickerPackActivity {
                 .setTitle("About App")
                 .setMessage("I'm Sandy, from Puttur, The developer of this app. Thanks to WhatsApp, My Friends and the Internet.")
                 .setPositiveButton("Open Source License", (dialog, which) -> {
-                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(Utils.URL.LICENSE_URL));
-                    startActivity(browserIntent);
+                    Intent openSourceLicenseIntent = new Intent(this, WebViewActivity.class);
+                    openSourceLicenseIntent.putExtra(WebViewActivity.URL, Utils.URL.OPEN_SOURCE_LICENSE_URL);
+                    startActivity(openSourceLicenseIntent);
                 })
                 .setNegativeButton("About developer", (dialog, which) -> {
-                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(Utils.URL.ABOUT_DEV_URL));
-                    startActivity(browserIntent);
+                    Intent aboutDevIntent = new Intent(this, WebViewActivity.class);
+                    aboutDevIntent.putExtra(WebViewActivity.URL, Utils.URL.ABOUT_DEV_URL);
+                    startActivity(aboutDevIntent);
                 })
                 .create().show();
     }
