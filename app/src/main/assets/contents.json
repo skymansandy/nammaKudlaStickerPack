@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Namma Mangaluru",
+      "name": "Kudla famous things",
       "publisher": "SkyManSandy",
       "tray_image_file": "mangalore_pack.jpg",
       "publisher_email": "skymansandycs@gmail.com",
@@ -139,24 +139,10 @@
           ]
         },
         {
-          "image_file": "19_pundi.webp",
-          "emojis": [
-            "🎉",
-            "✨"
-          ]
-        },
-        {
           "image_file": "20_fish_market.webp",
           "emojis": [
             "🤮",
             "👎"
-          ]
-        },
-        {
-          "image_file": "21_erdanemulu.webp",
-          "emojis": [
-            "🖐",
-            "🙋"
           ]
         },
         {
@@ -203,6 +189,359 @@
         },
         {
           "image_file": "28_kola.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Kudla Slangs",
+      "publisher": "SkyManSandy",
+      "tray_image_file": "slang_icon.webp",
+      "publisher_email": "skymansandycs@gmail.com",
+      "publisher_website": "http://skymansandy.github.io",
+      "privacy_policy_website": "http://www.codeshuffle.blogspot.com/p/privacy-olicy.html",
+      "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
+      "stickers": [
+        {
+          "image_file": "ajjisunti.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "ammerpolica.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "ammerdapann.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "bodasheera.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "bonda.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "danembe.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "darbur.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "eethmalla.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "kerpemagga.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "moojikasdaya.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "oobvc.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "podhusaila.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "podyodchi.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "popunda.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "pundi.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "thigaldakatta.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "saipana.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "yenchisaav.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Kudla Common sayings",
+      "publisher": "SkyManSandy",
+      "tray_image_file": "common_icon.webp",
+      "publisher_email": "skymansandycs@gmail.com",
+      "publisher_website": "http://skymansandy.github.io",
+      "privacy_policy_website": "http://www.codeshuffle.blogspot.com/p/privacy-olicy.html",
+      "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
+      "stickers": [
+        {
+          "image_file": "aavoli.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "andhamarre.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "andhbro.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "bokavishesha.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "eepandinsari.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "eedanemulu.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "gobbereunda.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "jalaxaanda.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "jiggamarre.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "kaasijji.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "kusalgpandin.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "kutichathe.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "mandebecha.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "anchamlpereballi.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "mokemalpve.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "odegthagini.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "ollambe.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "oraunthala.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        },
+        {
+          "image_file": "pedamb.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "pettunda.webp",
+          "emojis": [
+            "🤮",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "ragaleijji.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "anchaayereballi.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "bhaarishoku.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "solmelu.webp",
+          "emojis": [
+            "📱",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "yanijji.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "yendurlabava.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "yenkalbodu.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "yeregavuye.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "yermbeavu.webp",
           "emojis": [
             "🔋",
             "😵"
