@@ -6,129 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9828f14-e122-41bc-af4f-1b95f636fcea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/ajjisunti.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/ammerdapann.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/ammerpolica.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/bodasheera.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/bonda.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/danembe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/darbur.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/eethmalla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/kerpemagga.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/moojikasdaya.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/oobvc.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/podhusaila.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/podyodchi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/popunda.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/pundi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/saipana.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/slang_icon.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/thigaldakatta.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2/yenchisaav.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/aavoli.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/anchaayereballi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/anchamlpereballi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/andhamarre.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/andhbro.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/bhaarishoku.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/bokavishesha.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/common_icon.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/eedanemulu.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/eepandinsari.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/gobbereunda.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/jalaxaanda.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/jiggamarre.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/kaasijji.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/kusalgpandin.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/kutichathe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/mandebecha.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/mokemalpve.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/odegthagini.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/ollambe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/oraunthala.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/pedamb.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/pettunda.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/ragaleijji.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/solmelu.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/yanijji.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/yendurlabava.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/yenkalbodu.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/yeregavuye.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3/yermbeavu.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_animated_base_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_animated_drawable_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_animated_webp_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_drawee_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fresco_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_webpsupport_1_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/19_pundi.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/21_erdanemulu.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
-    </list>
+    <list default="true" id="b9828f14-e122-41bc-af4f-1b95f636fcea" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,12 +31,11 @@
       <file leaf-file-name="contents.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="336" column="4" selection-start-line="336" selection-start-column="4" selection-end-line="336" selection-end-column="4" />
+            <state relative-caret-position="342">
+              <caret line="349" column="16" lean-forward="true" selection-start-line="349" selection-start-column="16" selection-end-line="349" selection-end-column="16" />
               <folding>
                 <element signature="e#88#3993#0" />
                 <element signature="e#3999#6827#0" />
-                <element signature="e#6833#11009#0" />
               </folding>
             </state>
           </provider>
@@ -2531,9 +2408,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="device.picker.selection" value="aaa3901f" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hckey.jks" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
@@ -2578,7 +2460,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -2672,9 +2554,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -2682,12 +2565,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32917318" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.253365" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.253365" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.32917318" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -2960,12 +2843,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/contents.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="336" column="4" selection-start-line="336" selection-start-column="4" selection-end-line="336" selection-end-column="4" />
+        <state relative-caret-position="342">
+          <caret line="349" column="16" lean-forward="true" selection-start-line="349" selection-start-column="16" selection-end-line="349" selection-end-column="16" />
           <folding>
             <element signature="e#88#3993#0" />
             <element signature="e#3999#6827#0" />
-            <element signature="e#6833#11009#0" />
           </folding>
         </state>
       </provider>
