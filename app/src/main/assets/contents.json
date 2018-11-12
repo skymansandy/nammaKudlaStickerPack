@@ -359,6 +359,13 @@
           ]
         },
         {
+          "image_file": "avumarre.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
           "image_file": "andhbro.webp",
           "emojis": [
             "😆",
@@ -545,6 +552,123 @@
           "emojis": [
             "🔋",
             "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Troll Enku Sticker pack",
+      "publisher": "SkyManSandy",
+      "tray_image_file": "enku_icon.webp",
+      "publisher_email": "skymansandycs@gmail.com",
+      "publisher_website": "http://skymansandy.github.io",
+      "privacy_policy_website": "http://www.codeshuffle.blogspot.com/p/privacy-olicy.html",
+      "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
+      "stickers": [
+        {
+          "image_file": "emby.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "avebodithnd.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "marlbodchi.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "yendatroll.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "yennalevellebethe.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "supermarre.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "popikaala.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "korirotti.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "yenkijja.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "bucketmemes.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "alakkascene.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "sakathhot.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "avasthene.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "memepanda.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "enkadakusal.webp",
+          "emojis": [
+            "🌈",
+            "😜"
           ]
         }
       ]
