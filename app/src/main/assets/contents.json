@@ -331,6 +331,20 @@
             "💻",
             "🌃"
           ]
+        },
+        {
+          "image_file": "pedamb.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "yendurlabava.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
         }
       ]
     },
@@ -478,13 +492,6 @@
           ]
         },
         {
-          "image_file": "pedamb.webp",
-          "emojis": [
-            "🎉",
-            "✨"
-          ]
-        },
-        {
           "image_file": "pettunda.webp",
           "emojis": [
             "🤮",
@@ -521,13 +528,6 @@
         },
         {
           "image_file": "yanijji.webp",
-          "emojis": [
-            "🔋",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "yendurlabava.webp",
           "emojis": [
             "🔋",
             "😵"
@@ -666,6 +666,193 @@
         },
         {
           "image_file": "enkadakusal.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Konkani Pack",
+      "publisher": "SkyManSandy",
+      "tray_image_file": "amchi_icon.webp",
+      "publisher_email": "skymansandycs@gmail.com",
+      "publisher_website": "http://skymansandy.github.io",
+      "privacy_policy_website": "http://www.codeshuffle.blogspot.com/p/privacy-olicy.html",
+      "license_agreement_website": "https://github.com/skymansandy/nammaKudlaStickerPack",
+      "stickers": [
+        {
+          "image_file": "memme.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "paddi.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "mitamirsang.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "khathve.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "ambochi.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "dali.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "pannajavan.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "rabbai.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "ghe.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "kaiprayojan.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "khavaile.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "usalmadya.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "vaive.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "sirkala.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "ohotashi.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "varshik.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "makknave.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "bodkhavnaka.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "puro.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "jagrathe.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "ailo.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "pishve.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "javnak.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "kasakorche.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "aikucha.webp",
           "emojis": [
             "🌈",
             "😜"
