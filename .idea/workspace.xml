@@ -2417,7 +2417,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="57" />
     <option name="y" value="-4" />
     <option name="width" value="1309" />
@@ -2462,9 +2462,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="device.picker.selection" value="aaa3901f" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hckey.jks" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
