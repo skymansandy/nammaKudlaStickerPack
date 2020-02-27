@@ -8,7 +8,7 @@
 
 package in.codeshuffle.kudlastickers;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 
 import com.facebook.drawee.view.SimpleDraweeView;
