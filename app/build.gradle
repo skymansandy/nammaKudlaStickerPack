@@ -117,6 +117,7 @@ dependencies {
     implementation 'com.facebook.fresco:fresco:1.10.0'
     implementation 'com.facebook.fresco:webpsupport:1.13.0'
     implementation 'com.facebook.fresco:animated-webp:1.13.0'
+    implementation 'com.facebook.fresco:animated-base:1.13.0'
     implementation 'com.facebook.fresco:webpsupport:1.13.0'
     implementation 'com.google.firebase:firebase-core:17.2.2'
     implementation 'com.onesignal:OneSignal:3.12.6'
