@@ -12,44 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d5b1e50-0518-446c-ab0c-7e29c0ca6c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NammaKudla Sticker Pack.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/AddStickerPackActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BaseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BottomFadingRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/BottomFadingRecyclerView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/ContentFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/ContentFileParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerContentProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackDetailsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackInfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackListItemViewHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPackValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickerPreviewViewHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickersEntryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/StickersEntryActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WebViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WebViewActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/in/codeshuffle/kudlastickers/WhitelistCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_web_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_web_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_pack_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sticker_pack_details.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,16 +35,14 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>yend</find>
-      <find>kerpe</find>
-      <find>masthishta</find>
-    </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../hckey.jks" />
@@ -100,15 +67,16 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/assets/6" />
-      <recent name="$PROJECT_DIR$/app/src/main/assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/2" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/2/kullugana" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/3" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/assets/6" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,7 +188,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
